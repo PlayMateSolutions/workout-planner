@@ -1,0 +1,51 @@
+[
+  {
+    "order": 1,
+    "category": "Fitness Basics",
+    "topic": "Gym Equipment Walkthrough",
+    "description": "Welcome to Muscle Madness Fitness Center! In this video, we'll give you a complete introduction to our gym and a walkthrough of all the equipment we offer.",
+    "youtubeVideoId": "8S128rnGjE4"
+  },
+  {
+    "order": 2,
+    "category": "Fitness Basics",
+    "topic": "Know Your Muscles",
+    "description": "Want to train smarter and grow stronger? Start by knowing your muscles! This video explains all the major muscle groups for effective training.",
+    "youtubeVideoId": "e5pYx6MawCk"
+  },
+  {
+    "order": 3,
+    "category": "Fitness Basics",
+    "topic": "Full Body Warm-up Routine",
+    "description": "Don't skip your warm-up! This 5-minute beginner-friendly warm-up gets your body ready for any workout — reducing injury risk and improving performance.",
+    "youtubeVideoId": "ogYRlGZABMY"
+  },
+  {
+    "order": 4,
+    "category": "Fitness Basics",
+    "topic": "Full Body Beginner Workout",
+    "description": "New to the gym and not sure where to begin? This full-body beginner workout is designed to build strength, improve confidence, and create a solid fitness foundation.",
+    "youtubeVideoId": "vdWyUjZhqdw"
+  },
+  {
+    "order": 5,
+    "category": "Fitness Basics",
+    "topic": "Weekly Workout Split",
+    "description": "New to the gym? Don't know what to train each day? This video breaks down a simple and effective weekly workout split that targets all major muscle groups.",
+    "youtubeVideoId": "C7tfYaAEwak"
+  },
+  {
+    "order": 6,
+    "category": "Nutrition",
+    "topic": "Top Protein-Rich Foods",
+    "description": "Protein is essential for muscle growth and recovery, especially for beginners starting their fitness journey. Simple & budget-friendly options without supplements.",
+    "youtubeVideoId": "XXsMdKIUIDs"
+  },
+  {
+    "order": 7,
+    "category": "Nutrition",
+    "topic": "Basic Gym Diet",
+    "description": "Just started working out and confused about what to eat? This video explains a simple, affordable, and effective diet plan for beginners — perfect for gaining strength, building muscle, or fat loss.",
+    "youtubeVideoId": "GMrZiu_eIrw"
+  }
+]

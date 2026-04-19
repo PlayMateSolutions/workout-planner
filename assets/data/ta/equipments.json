@@ -1,0 +1,190 @@
+[
+  {
+    "id": "lat_pull_down_seated_rowing",
+    "name": "Lat pull down/Seated rowing",
+    "thumbnail": "pull_down_mid_row.png",
+    "exercises": [
+      "Elevated_Cable_Rows",
+      "Close-Grip_Front_Lat_Pulldown",
+      "Seated_One-arm_Cable_Pulley_Rows"
+    ],
+    "videos": [
+      "ctG0AMUlqZ8"
+    ]
+  },
+  {
+    "id": "peck_fly_rear_delt",
+    "name": "Peck Fly/ Rear Delt",
+    "thumbnail": "pec_deck_rear_delt.png",
+    "exercises": [
+      "Butterfly"
+    ],
+    "videos": [
+      "-9Irtn2nvNI"
+    ]
+  },
+  {
+    "id": "functional_trainer",
+    "name": "Functional Trainer",
+    "thumbnail": "functional_trainer.png",
+    "exercises": [
+      "Cable_Crunch",
+      "Cable_Crossover",
+      "Cable_Hammer_Curls_-_Rope_Attachment",
+      "Cable_Incline_Pushdown",
+      "Cable_Incline_Triceps_Extension",
+      "Cable_Lying_Triceps_Extension",
+      "Cable_One_Arm_Tricep_Extension",
+      "Cable_Preacher_Curl",
+      "Low_Cable_Triceps_Extension",
+      "Face_Pull",
+      "Front_Cable_Raise",
+      "Cable_Hip_Adduction"
+    ],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "smith_machine_with_squat_rack",
+    "name": "Smith Machine with Squat Rack",
+    "thumbnail": "smith_machine.png",
+    "exercises": [
+      "Smith_Incline_Shoulder_Raise",
+      "Smith_Machine_Bench_Press",
+      "Smith_Machine_Decline_Press",
+      "Smith_Machine_Squat",
+      "Smith_Machine_Behind_the_Back_Shrug",
+      "Smith_Machine_Bent_Over_Row",
+      "Smith_Machine_Calf_Raise",
+      "Smith_Machine_Close-Grip_Bench_Press",
+      "Smith_Machine_Hip_Raise",
+      "Smith_Machine_Hang_Power_Clean",
+      "Smith_Machine_Incline_Bench_Press",
+      "Smith_Machine_Leg_Press",
+      "Smith_Machine_One-Arm_Upright_Row",
+      "Smith_Machine_Overhead_Shoulder_Press",
+      "Smith_Machine_Pistol_Squat",
+      "Smith_Machine_Reverse_Calf_Raises",
+      "Smith_Machine_Stiff-Legged_Deadlift",
+      "Smith_Machine_Upright_Row",
+      "Smith_Single-Leg_Split_Squat"
+    ],
+    "videos": [
+      "kvh9CGAspW8"
+    ]
+  },
+  {
+    "id": "hack_squat_leg_press",
+    "name": "Leg Press",
+    "thumbnail": "leg_press.png",
+    "exercises": [
+      "Leg_Press"
+    ],
+    "videos": [
+      "eBQkLCspBso"
+    ]
+  },
+  {
+    "id": "multipress_machine",
+    "name": "Multipress Machine",
+    "thumbnail": "multi-press.png",
+    "exercises": [
+      "Machine_Bench_Press",
+      "Leverage_Shoulder_Press"
+    ],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "squat_rack",
+    "name": "Squat rack",
+    "thumbnail": "squat_rack.png",
+    "exercises": [
+      "Weighted_Squat"
+    ],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "seated_calf_raise",
+    "name": "Seated Calf raise",
+    "thumbnail": "seated_calf.png",
+    "exercises": [
+      "Seated_Calf_Raise"
+    ],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "leg_extension_leg_curl",
+    "name": "Leg Extension / Leg Curl",
+    "thumbnail": "leg-curl-extension.png",
+    "exercises": [
+      "Leg_Extensions",
+      "Lying_Leg_Curls"
+    ],
+    "videos": [
+      "N4wh84qlMrQ"
+    ]
+  },
+  {
+    "id": "chin_dip_assist",
+    "name": "Chin/Dip Assist",
+    "thumbnail": "chip_dip_assist.png",
+    "exercises": [
+      "Parallel_Bar_Dip",
+      "Dips_-_Chest_Version",
+      "Dips_-_Triceps_Version"
+    ],
+    "videos": [
+      "H7QWUKCNZSY"
+    ]
+  },
+  {
+    "id": "t_bar_rowing",
+    "name": "T-Bar Rowing",
+    "thumbnail": "t_bar_row.png",
+    "exercises": [
+      "Lying_T-Bar_Row"
+    ],
+    "videos": [
+      "FJHybM16OJc"
+    ]
+  },
+  {
+    "id": "forearm_machine",
+    "name": "ForeArm Machine",
+    "thumbnail": "wrist_curl.png",
+    "exercises": [],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "hyper_extension",
+    "name": "Hyper Extension",
+    "thumbnail": "hyper_extension.png",
+    "exercises": [
+      "Hyperextensions_Back_Extensions"
+    ],
+    "videos": [
+      
+    ]
+  },
+  {
+    "id": "seated_preacher_curl_bench",
+    "name": "Seated Preacher Curl Bench",
+    "thumbnail": "preacher_curl.png",
+    "exercises": [
+      "Preacher_Curl",
+      "Preacher_Hammer_Dumbbell_Curl"
+    ],
+    "videos": [
+      "PFKsE2TD3P0"
+    ]
+  }
+]

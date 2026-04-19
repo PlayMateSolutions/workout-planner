@@ -1,0 +1,21 @@
+{
+  "name": "Muscle Madness Workout Planner",
+  "short_name": "Workout Planner",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/img/appicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/appicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "background_color": "#c93636",
+  "theme_color": "#c93636"
+}
